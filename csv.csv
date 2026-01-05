@@ -1,0 +1,16 @@
+CID,TID,Gender,Age Group,Purchase Date,Product Category,Discount Availed,Discount Name,Discount Amount (INR),Gross Amount,Net Amount,Purchase Method,Location
+1,1001,Male,26-35,15-01-2023,Electronics,Yes,""" Welcome50        """,1000,12000,11000,Credit Card,Mumbai
+2,1002,Female,18-25,10-02-2023,Clothing,Yes,Summer Sale,600,3000,2400,UPI,Pune
+3,1003,Male,36-45,05-03-2023,Home Decor,No,,0,4500,4500,Debit Card,Delhi
+4,1004,Female,26-35,20-01-2023,Electronics,Yes,Diwali Dhamaka,2000,25000,23000,Credit Card,Mumbai
+5,1005,Male,18-25,12-04-2023,Books,No,,0,800,800,Cash,Bangalore
+6,1006,Female,46-55,30-05-2023,Electronics,Yes,""" Monsoon """,1500,6000,4500,Credit Card,Mumbai
+7,1007,Male,26-35,15-06-2023,Clothing,Yes,Flat 50,300,2000,1700,UPI,Chennai
+8,1008,Female,26-35,08-07-2023,Beauty,No,,0,1500,1500,Credit Card,Mumbai
+9,1009,Male,55+,22-08-2023,Electronics,Yes,Freedom Sale,5000,60000,55000,Net Banking,Delhi
+10,1001,Male,26-35,15-01-2023,Electronics,Yes,""" Welcome50 """,1000,12000,11000,Credit Card,Mumbai
+11,1010,Female,18-25,10-09-2023,Groceries,No,,0,1200,1200,Cash,Pune
+12,1011,Male,36-45,02-10-2023,Electronics,Yes,Gandhi Jayanti,800,5500,4700,Credit Card,Mumbai
+13,1012,Female,26-35,14-11-2023,Clothing,Yes,""" Diwali """,1200,4000,2800,UPI,Bangalore
+14,1013,Male,18-25,25-12-2023,Toys,Yes,Christmas,400,1500,1100,Cash,Chennai
+,1014,Female,46-55,05-01-2023,Home Decor,No,,0,3500,3500,Debit Card,Pune
